@@ -230,3 +230,21 @@
     
         ![image](https://user-images.githubusercontent.com/116808294/208337080-3e3a2df0-83c1-430c-b559-209efc1a8f0c.png)
 
+4. VIDEO
+
+
+5. CONCLUSIONES
+
+    •	Para este deber fue importante el uso de conocimientos previos del anterior parcial tanto como los nuevos adquiridos. El uso de los nuevos teoremas aprendidos y los anteriores son claramente utiles al momento de resolver circuitos ya con más complejidad.
+
+6. BIBLIOGRAFIA
+
+    •	Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+    •	Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+
+    •	Ingaruca Orihuela, F. J. (2022). Videotutoriales para el aprendizaje de circuitos eléctricos en estudiantes del Instituto de Educación Superior Tecnológico Público Pasco.
+
+    •	Sáenz, E. M., de la Cruz, J. P., & Garzón, H. S. (2012). Fundamentos de circuitos eléctricos II. Universidad del Valle. Programa Editorial.
+
+    •	Usaola, J., Moreno, M., Hambley, A., & Sierra, M. (2003). Circuitos eléctricos. Universitario, 77.
